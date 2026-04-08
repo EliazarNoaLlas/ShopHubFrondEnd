@@ -1,4 +1,4 @@
-# Sitio Web E-commerce con Next.js Plataforma de COmercio ElECTRONICO SHOP-HUB
+# Sitio Web E-commerce con Next.js
 
 Una plataforma de e-commerce de alto rendimiento en Next.js con Redux Toolkit para la gestión de estado, filtrado dinámico de productos, paginación y pagos integrados con Stripe. Este proyecto está construido con Server-Side Rendering (SSR) y Static Site Generation (SSG) para un SEO optimizado y un rendimiento rápido. Usa TailwindCSS para los estilos e incluye gráficos dinámicos para la visualización de datos.
 
@@ -92,22 +92,22 @@ La aplicación estará disponible en http://localhost:3000.
 
 ### Resumen de funcionalidades
 1. Visualización de productos con SSR
-   Los productos se obtienen usando server-side rendering para mejor SEO y tiempos de carga más rápidos.
+Los productos se obtienen usando server-side rendering para mejor SEO y tiempos de carga más rápidos.
 
 2. Ordenamiento, filtrado y búsqueda
-   Los usuarios pueden ordenar productos por precio, popularidad, etc.
-   Filtrar productos por categorías, características y otros atributos.
-   Buscar productos usando una barra de búsqueda personalizada.
+Los usuarios pueden ordenar productos por precio, popularidad, etc.
+Filtrar productos por categorías, características y otros atributos.
+Buscar productos usando una barra de búsqueda personalizada.
 
 3. Redux Toolkit y RTK Query
-   Gestión de estado eficiente con Redux Toolkit.
-   RTK Query para manejar llamadas al API y cachear resultados.
+Gestión de estado eficiente con Redux Toolkit.
+RTK Query para manejar llamadas al API y cachear resultados.
 
 4. Autenticación de usuarios
-   Registro, login y acceso a rutas protegidas usando JSON Web Tokens (JWT).
+Registro, login y acceso a rutas protegidas usando JSON Web Tokens (JWT).
 
 5. Integración con Stripe
-   Experiencia de pago fluida con Stripe.
+Experiencia de pago fluida con Stripe.
 
 #### Mejoras futuras
 * Agregar más pasarelas de pago.
@@ -119,7 +119,7 @@ La aplicación estará disponible en http://localhost:3000.
 
 ### Capturas de pantalla
 * Home
-  ![preview](public/preview/screencapture-gadget-galaxy.png)
+![preview](public/preview/screencapture-gadget-galaxy.png)
 * Productos
-  ![preview](public/preview/screencapture-gadget-galaxy-product.png)
+![preview](public/preview/screencapture-gadget-galaxy-product.png)
 
