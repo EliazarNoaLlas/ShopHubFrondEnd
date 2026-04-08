@@ -1,5 +1,4 @@
-# Sitio Web E-commerce con Next.js Plataforma de COmercio ElECTRONICO SHOP-HUB
-
+# Sitio Web E-commerce con Next.js Plataforma de Comercio Electronico ShupHub
 Una plataforma de e-commerce de alto rendimiento en Next.js con Redux Toolkit para la gestión de estado, filtrado dinámico de productos, paginación y pagos integrados con Stripe. Este proyecto está construido con Server-Side Rendering (SSR) y Static Site Generation (SSG) para un SEO optimizado y un rendimiento rápido. Usa TailwindCSS para los estilos e incluye gráficos dinámicos para la visualización de datos.
 
 **Si te gusta, por favor dale una estrella**.
